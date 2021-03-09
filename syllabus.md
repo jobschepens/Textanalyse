@@ -52,23 +52,37 @@ Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht
 
 Es gibt eine benotete Hausarbeit und eine Studienleistung. Eine Studienleistung für das Seminar erhalten Sie nur, wenn Sie an allen Terminen aktiv mitgearbeitet haben und alle X Vorleistungen zu den jeweiligen Seminarsitzungen erfolgreich erbracht haben. Ohne bestandene Seminarleistung dürfen Sie nicht an der abschließende Prüfung teilnehmen. 
 
-Hausarbeit: "hermeneutische" (alternativ: kritische) erörtertung von ein Zeitschriftenaufsatz
 
-Beispiele von Vorleistungen:
-1. Verfassen eines Abstracts
-2. Rechercheauftrag zu verschiedenen Büchern und Texten
-3. Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichniss
+### Vorleistungen:
+
+1. Rechercheauftrag zu verschiedenen Büchern und Texten
+2. Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnis
+3. Abgabe einer inhaltlich plausiblen und formal korrekten Analyse
 4. Abgabe einer inhaltlich plausiblen und formal korrekten Analyse
-5. Abgabe einer inhaltlich plausiblen und formal korrekten Analyse
+
+
+### Hausarbeit: Analyse eines Zeitschriftenartikels
+
+[PDF](https://jobschepens.github.io/textanalyse/Seminarleistung.pdf)
+
+"hermeneutisch" & "kritisch-konstruktiv" ???
 
 
 # Seminarplan
 
-- Literaturrecherche, Textanalyse, Schreiben, Präsentieren
-- Wissenschaftstheorie (?)
-- Übung zur Zitation (?)
-- Übung zur Bibliographie (?)
-- Hermeneutik als Methode der wissenschaftlichen Textinterpretation haben (?)
+- Wissenschaftstheorie (kurz) & Prinzipien guter wissenschaftlicher Praxis (Michael Slides)
+- Literaturrecherche
+- Lesen & Verstehen 
+- Schreiben
+- Texten lesen, analysieren, diskutieren (week 6-15)
+
+
+# Texte fuer Textanalysen
+
+- Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
+- Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77.
+- Messerschmidt, Astrid (2016): Differenzreflexive Kritik machtkonformer Bildung. In: Müller, Stefan/ Mende, Janne (Hrsg.): Differenz und Identität. Konstellationen einer Kritik. Weinheim/ Basel: Juventa, S. 166-180
+- ???
 
 
 ## Acknowledgements
