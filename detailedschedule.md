@@ -43,12 +43,9 @@ Themen
 - Wie recherchiere ich inhaltlich sinnvoll?
 
 Vorzubereitende Texte:
-
+- kommt noch
 
 **Vorleistung 1: Rechercheauftrag zu verschiedenen Büchern und Texten**
-- Leihen Sie ein Buch aus, das für Ihnen für Ihr Forschungsproblem relevant erscheint
-- Suchen Sie nach einem aktuellen, empirischen Zeitschriftenartikel, der für Ihr Forschungsproblem relevant erscheint (im Katalog der UB) 
-- Suchen Sie nach einem Übersichtsartikel zu ihrem Forschungsproblem
 
 ## Week  5 (12.05.2021)
 
@@ -59,10 +56,8 @@ Themen
 
 Vorzubereitende Texte
 - 8p Leitfaden zur wissenschaftlichen Zitation
-- Bitte außerdem 5 zitierfähige Texte (Bücher o. Aufsätze) und einen Laptop zur Sitzung mitbringen
 
 **Vorleistung 2: Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnisse**
-- Entscheiden Sie sich für ein Literaturverwaltungsprogramm und installieren Sie dieses auf ihrem Laptop (z.B. Endnote, Citavi, Mendeley und Zotero, ich arbeite mit Zotero)
 
 
 ## Week  6 (19.05.2021)
@@ -72,7 +67,6 @@ Themen
 
 Vorzubereitende Texte
 - 23p Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
-
 
 
 ## Week  7 (26.05.2021)
@@ -86,13 +80,12 @@ Themen
 - Grundlagen Textanalyse II
 
 
-
 ## Week  9 (09.06.2021)
 
 Themen
 - Textanalyse (theoretischer Erziehungswissenschaft)
 
-Vorzubereitende Texte:
+Vorzubereitende Texte
 - Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77. 
 
 
@@ -113,10 +106,10 @@ Themen
 ## Week 12 (30.06.2021)
 
 Themen
-- Textanalyse 2 (theoretischer Erziehungswissenschaft)
+- Textanalyse 2 (empirische Erziehungswissenschaft)
 
 Vorzubereitende Texte:
-
+- kommt noch
 
 ## Week 13 (07.07.2021)
 
@@ -128,9 +121,6 @@ Themen
 
 Themen
 - Diskussion der Ergebnisse
-- Feedback 
-- Offene Fragen
-- Diskussion Vorleistung 4
 
 **Vorleistung 4: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse**
 
@@ -140,9 +130,9 @@ Themen
 Individualtermine zur Besprechung der Hausarbeitsthemen
 
 
-## Before 30.09.2021 (official end date of SoSe21)
+## Before 30.09.2021 (Enddatum SoSe21)
 
-- deadline Abgabe Hausarbeit
+- deadline Hausarbeit
 
 
 
