@@ -16,7 +16,7 @@ Themen
 - Fragen zur Seminarleistung
 
 Vorzubereitende Texte:
-- 4p Rost, Friedrich (2008): Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186.
+- 4p Rost, Friedrich (2008): Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186. 
 - 6p Stary, Joachim/ Kretschmer, Horst (1994): Umgang mit wissenschaftlicher Literatur. Eine Arbeitshilfe für das sozial- und geisteswissenschaftliche Studium. Berlin: Cornelsen Scriptor (= Studium kompakt Lesemethoden, schneller lesen), S. 14-33.
 - 5p Vogel, Peter (1999): Der Theorie-Praxis-Konflikt in der Pädagogik als Deutungsmuster für den Studienalltag – oder Was lernt man eigentlich im wissenschaftlichen Studium? In: Pädagogischer Blick 7. Jg., Heft 1, S. 34-40
 - 4p Seminarleistung + Syllabus

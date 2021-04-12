@@ -77,3 +77,7 @@ Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entw
 
 [Detaillierte Planung](https://jobschepens.github.io/textanalyse/detailedschedule.html)
 
+
+# Literatur
+
+[PDF](https://jobschepens.github.io/textanalyse/lit/lit.zip). 
