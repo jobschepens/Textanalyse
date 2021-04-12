@@ -15,11 +15,17 @@ Themen
 - Theorie-Praxiskonflikt
 - Fragen zur Seminarleistung
 
-Vorzubereitende Texte:
+Vorzubereitende Texte
 - 4p Rost, Friedrich (2008): Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186. 
 - 6p Stary, Joachim/ Kretschmer, Horst (1994): Umgang mit wissenschaftlicher Literatur. Eine Arbeitshilfe für das sozial- und geisteswissenschaftliche Studium. Berlin: Cornelsen Scriptor (= Studium kompakt Lesemethoden, schneller lesen), S. 14-33.
 - 5p Vogel, Peter (1999): Der Theorie-Praxis-Konflikt in der Pädagogik als Deutungsmuster für den Studienalltag – oder Was lernt man eigentlich im wissenschaftlichen Studium? In: Pädagogischer Blick 7. Jg., Heft 1, S. 34-40
 - 4p Seminarleistung + Syllabus
+
+Lernziele: Sie koennen
+- pädagogische Wissensformen (wissenschaftliches Wissen, Professionswissen, Alltagswissen) voneinander unterscheiden,
+- wesentliche Elemente der jeweiligen Wissensformen erklären und 
+- auf dieser Basis unterschiedliche pädagogische Textsorten identifizieren.
+- verschiedene Typen wissenschaftlicher Literatur (Monographie, Sammelband, Zeitschrift usw.) voneinander unterscheiden.
 
 
 ## Week  3 (28.04.2021)
@@ -45,7 +51,11 @@ Themen
 Vorzubereitende Texte:
 - kommt noch
 
+Lernziele: Sie koennen
+- Literatur beschaffen, verschiedene Datenbanken kennen und nutzen 
+
 **Vorleistung 1: Rechercheauftrag zu verschiedenen Büchern und Texten**
+
 
 ## Week  5 (12.05.2021)
 
@@ -59,6 +69,10 @@ Vorzubereitende Texte
 
 **Vorleistung 2: Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnisse**
 
+Lernziele: Sie koennen
+- unterschiedliche Zitationsschemata voneinander unterscheiden
+- richtig Zitatieren
+
 
 ## Week  6 (19.05.2021)
 
@@ -67,6 +81,10 @@ Themen
 
 Vorzubereitende Texte
 - 23p Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
+
+
+Lernziele: Sie haben
+- ein fundiertes Verständnis von Hermeneutik als Methode der wissenschaftlichen Textinterpretation
 
 
 ## Week  7 (26.05.2021)
