@@ -6,24 +6,22 @@ output: html_document
 ---
 
 
-# Course information
-
-## Coursebook details
+# Allgemeines
 
 - BA-Studiengang Erziehungswissenschaft
 - Modul 1.1: Grundlagen der Erziehungswissenschaft 1 (10 ECTS)
 - Element 2 Einführung in die Methoden der Textanalyse und des wissenschaftlichen Arbeitens (5 ECTS)
-- Study section: 1./2. Semester
+- Abschnitt: 1./2. Semester
 - Veranstaltungsnummer: 120200
-- Summer Semester 2021
-- Time: 2 x 45 min, 14.00-16.00 (cum zeit: Anfang 14.15)
+- Sommer Semester 2021
+- Zeit: 2 x 45 min, 14.00-16.00 (cum zeit: Anfang 14.15)
 - Aufwand: 300 Stunden 
 - Format: Zoom
-- Teacher: Job Schepens [TU Dortmund Homepage](http://www.ifs.tu-dortmund.de/cms/de/Home/Mitarbeiter/Wissenschaftliche-Mitarbeiter/Schepens-Job.html)
+- Lehrer: Job Schepens [TU Dortmund Homepage](http://www.ifs.tu-dortmund.de/cms/de/Home/Mitarbeiter/Wissenschaftliche-Mitarbeiter/Schepens-Job.html)
 - Language: German
 
 
-## Modulhandbuch
+# Modulhandbuch
 
 Inhalt: Methoden der wissenschaftlichen Textinterpretation (inklusive der Gestaltung von wissenschaftlichen Texten).
 
@@ -33,7 +31,7 @@ Kompetenzen: Die Studierenden
 - können wissenschaftliche Texte lesen, analysieren und die Ergebnisse der Analyse in eine angemessene schriftliche Form bringen.
 
 
-## Seminarstruktur
+# Seminarstruktur
 
 Wegen Corona findet dieses Seminar komplett online statt. Die Idee ist das wir jede Woche eine interaktiven Zoom Meeting haben. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. 
 
@@ -48,12 +46,12 @@ Die Videokonferenzen per Zoom sind nicht verpflichtend.
 Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht werden. Das gilt sowohl für Dateien, die von mir hochgeladen werden als auch für Dateien, die von Studierenden hochgeladen werden.
 
 
-## Studienleistung und abschließende Prüfung 
+# Studienleistung und abschließende Prüfung 
 
 Es gibt eine benotete Hausarbeit und eine Studienleistung. Eine Studienleistung für das Seminar erhalten Sie nur, wenn Sie alle Vorleistungen zu den jeweiligen Seminarsitzungen erfolgreich erbracht haben. Ohne bestandene Studienleistung dürfen Sie nicht an der abschließende Prüfung (Hausarbeit in regulärem Umfang) teilnehmen. 
 
 
-### Vorleistungen:
+# Vorleistungen:
 
 1. Rechercheauftrag zu verschiedenen Büchern und Texten
 2. Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnis
@@ -61,14 +59,14 @@ Es gibt eine benotete Hausarbeit und eine Studienleistung. Eine Studienleistung 
 4. Abgabe einer inhaltlich plausiblen und formal korrekten Analyse
 
 
-### Hausarbeit / Seminarleistung: Analyse eines Zeitschriftenartikels
+# Hausarbeit / Seminarleistung: Analyse eines Zeitschriftenartikels
 
-Für die Hausarbeit entwickeln Sie bitte selbständig oder in Paare eine Fragestellung, sprechen sie mit mir ab in der letzten Sitzung und recherchieren passende Literatur (Zeitschriftenartikel / Buchkaptittel). 
+Für die Hausarbeit entwickeln Sie bitte selbständig oder in Paare eine Fragestellung, sprechen sie mit mir ab in der letzten Sitzung und recherchieren passende Literatur (Zeitschriftenartikel / Buchkapitel). 
 
 [PDF](https://jobschepens.github.io/textanalyse/Seminarleistung.pdf)
 
 
-## Acknowledgements
+# Acknowledgements
 
 Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank für diese Arbeit!
 
