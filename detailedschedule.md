@@ -2,61 +2,77 @@
 
 ## Week  1 (14.04.2021)
 
-Organisatorische und inhaltliche Einführung in das Seminar
-
-Was ist Wissenschaft? 
-
-Vogel, Peter (1999): Der Theorie-Praxis-Konflikt in der Pädagogik als Deutungsmuster für den Studienalltag – oder Was lernt man eigentlich im wissenschaftlichen Studium? In: Pädagogischer Blick 7. Jg., Heft 1, S. 34-40
+Themen
+- Organisatorische und inhaltliche Einführung in das Seminar
+- Was ist Wissenschaft? 
 
 
 ## Week  2 (21.04.2021)
 
-Wissenschaftstheorie
+Themen
+- Lesetechniken + Struktur eines wissenschaftlichen Artikels 
+- Textsorten
+- Theorie-Praxiskonflikt
+- Fragen zur Seminarleistung
 
-- Wissenschaftssystem
-- Konkurrierende Geltungsbehauptungen
-- Grenzen wissenschaftlichen Wissens
-- Die wissenschaftliche Methode 
-- Gute wissenschaftliche Praxis
+Vorzubereitende Texte:
+- 4p Rost, Friedrich (2008): Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186.
+- 6p Stary, Joachim/ Kretschmer, Horst (1994): Umgang mit wissenschaftlicher Literatur. Eine Arbeitshilfe für das sozial- und geisteswissenschaftliche Studium. Berlin: Cornelsen Scriptor (= Studium kompakt Lesemethoden, schneller lesen), S. 14-33.
+- 5p Vogel, Peter (1999): Der Theorie-Praxis-Konflikt in der Pädagogik als Deutungsmuster für den Studienalltag – oder Was lernt man eigentlich im wissenschaftlichen Studium? In: Pädagogischer Blick 7. Jg., Heft 1, S. 34-40
+- 4p Seminarleistung + Syllabus
 
 
 ## Week  3 (28.04.2021)
 
-Literaturrecherche I
+Themen
+- Wissenschaftssystem
+- Konkurrierende Geltungsbehauptungen
+- Grenzen wissenschaftlichen Wissens
+- Die wissenschaftliche Methode 
+- Aktuelle Strömungen in der Wissenschaft
+- Gute wissenschaftliche Praxis
 
-- Wahl eines Forschungsthemas
-- Fragestellungen
-- Wie recherchiere ich inhaltlich sinnvoll?
-- Literaturformen
-
-**Vorleistung 1: Rechercheauftrag zu verschiedenen Büchern und Texten**
+Vorzubereitende Texte:
 
 
 ## Week  4 (05.05.2021)
 
-Lesen & Verstehen I 
+Themen
+- Wahl eines Forschungsthemas
+- Fragestellungen
+- Wie recherchiere ich inhaltlich sinnvoll?
 
-- Lesestrategien
-- Struktur eines wissenschaftlichen Artikels 
+Vorzubereitende Texte:
 
+
+**Vorleistung 1: Rechercheauftrag zu verschiedenen Büchern und Texten**
+- Leihen Sie ein Buch aus, das für Ihnen für Ihr Forschungsproblem relevant erscheint
+- Suchen Sie nach einem aktuellen, empirischen Zeitschriftenartikel, der für Ihr Forschungsproblem relevant erscheint (im Katalog der UB) 
+- Suchen Sie nach einem Übersichtsartikel zu ihrem Forschungsproblem
 
 ## Week  5 (12.05.2021)
 
-Wissenschaftliches Schreiben I
-
-- Charakteristika von wissenschaftlicher Sprache
-- Argumentieren 
+Themen
+- Zitation
 - Zitationsstile
 - Literaturverwaltung
 
+Vorzubereitende Texte
+- 8p Leitfaden zur wissenschaftlichen Zitation
+- Bitte außerdem 5 zitierfähige Texte (Bücher o. Aufsätze) und einen Laptop zur Sitzung mitbringen
+
 **Vorleistung 2: Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnisse**
+- Entscheiden Sie sich für ein Literaturverwaltungsprogramm und installieren Sie dieses auf ihrem Laptop (z.B. Endnote, Citavi, Mendeley und Zotero, ich arbeite mit Zotero)
 
 
 ## Week  6 (19.05.2021)
 
-Grundlagen Textanalyse I
+Themen
+- Grundlagen Textanalyse I
 
-Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
+Vorzubereitende Texte
+- 23p Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
+
 
 
 ## Week  7 (26.05.2021)
@@ -66,53 +82,52 @@ Pfingsten
 
 ## Week  8 (02.06.2021)
 
-Grundlagen Textanalyse II
+Themen
+- Grundlagen Textanalyse II
+
 
 
 ## Week  9 (09.06.2021)
 
-Textanalyse 1
+Themen
+- Textanalyse (theoretischer Erziehungswissenschaft)
 
-zB:
-
-Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77
-
-IFS-text?
+Vorzubereitende Texte:
+- Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77. 
 
 
 ## Week 10 (16.06.2021)
 
-Keine Präsenzsitzung, dafür Zeit zum Erstellen der Textanalyse
+Themen
+- Zeit zum Erstellen der ersten Textanalyse
 
 
 ## Week 11 (23.06.2021)
 
-**Vorleistung 3: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse**
+Themen
+- Diskussion der Ergebnisse
 
-Texthermeneutik: Diskussion Vorleistung 3
+**Vorleistung 3: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse**
 
 
 ## Week 12 (30.06.2021)
 
-Textanalyse 2 
+Themen
+- Textanalyse 2 (theoretischer Erziehungswissenschaft)
 
-zB:
-
-Messerschmidt, Astrid (2016): Differenzreflexive Kritik machtkonformer Bildung. In: Müller, Stefan/ Mende, Janne (Hrsg.): Differenz und Identität. Konstellationen einer Kritik. Weinheim/ Basel: Juventa, S. 166-180.
-
-IFS-text?
+Vorzubereitende Texte:
 
 
 ## Week 13 (07.07.2021)
 
-Keine Präsenzsitzung, dafür Zeit zum Erstellen der zweiten Textanalyse
+Themen
+- Zeit zum Erstellen der zweiten Textanalyse
 
 
 ## Week 14 (14.07.2021)
 
-Wissenschaftstheorie III & Abschluss  
-
-- Aktuelle Strömungen in der Wissenschaft
+Themen
+- Diskussion der Ergebnisse
 - Feedback 
 - Offene Fragen
 - Diskussion Vorleistung 4
