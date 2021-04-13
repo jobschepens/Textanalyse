@@ -61,14 +61,14 @@ Es gibt eine benotete Hausarbeit und eine Studienleistung. Eine Studienleistung 
 
 # Hausarbeit / Seminarleistung: Analyse eines Zeitschriftenartikels
 
-Für die Hausarbeit entwickeln Sie bitte selbständig oder in Paare eine Fragestellung, sprechen sie mit mir ab in der letzten Sitzung und recherchieren passende Literatur (Zeitschriftenartikel / Buchkapitel). 
+Für die Hausarbeit entwickeln Sie bitte selbständig oder zu zweit eine Fragestellung, sprechen sie mit mir ab in der letzten Sitzung und recherchieren passende Literatur (Zeitschriftenartikel / Buchkapitel). 
 
 [PDF](https://jobschepens.github.io/textanalyse/Seminarleistung.pdf)
 
 
 # Acknowledgements
 
-Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank für diese Arbeit!
+Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer (Dortmund), Miriam Mathias (Dortmund), und Lisa Henke (Tuebingen) haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank!
 
 
 # Seminarplanung
@@ -76,6 +76,29 @@ Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entw
 [Detaillierte Planung](https://jobschepens.github.io/textanalyse/detailedschedule.html)
 
 
-# Literatur
+# Literatur (Moodle)
 
-[PDF](https://jobschepens.github.io/textanalyse/lit/lit.zip). 
+Allgemein
+
+- Esselborn-Krumbiegel, H. (2019). Die erste Hausarbeit – FAQ. Ferdinand Schöningh. 
+- Rost. (2012). Lern- und Arbeitstechniken für das Studium. Springer. 
+
+Wissenschaft und Forschung
+
+- Döring, N., & Bortz, J. (2016). Forschungsmethoden und Evaluation. Teil 1: Grundlagen. Wiesbaden: Springer.
+- Seidel, T., & Krapp, A. (2017). Pädagogische Psychologie. Teil 1: Pädagogische Psychologie als Wissenschaft. Weinheim: Beltz.
+- Nina Baur and Jörg Blasius (2019). Handbuch Methoden der Empirischen Sozialforschung. Springer.
+- Reinders et al. (2015). Empirische Bildungsforschung Strukturen und Methoden. Teil 1 und 2.
+- Muijs (2007). Doing Quantitative Research in Education.
+- Cohen (2018). Research Methods in Education.
+
+
+Beispiele fuer eine Textanalyse
+
+- Brezinka (1975) Über den Begriff der Erziehung 
+- Durkheim (1984) Erziehung, Moral und Gesellschaft 
+- Kant (1803) Vorlesung über Pädagogik (Auszug) 
+- Kant (1784) Was ist Aufklärung 
+- Rousseau (1762) Emile (Auszug)
+- Messerschmidt, Astrid (2016): Differenzreflexive Kritik machtkonformer Bildung. In: Müller, Stefan/ Mende, Janne (Hrsg.): Differenz und Identität. Konstellationen einer Kritik. Weinheim/ Basel: Juventa, S. 166-180.
+- Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77.

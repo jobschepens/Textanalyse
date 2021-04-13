@@ -6,6 +6,7 @@ Themen
 - Organisatorische und inhaltliche Einführung in das Seminar
 - Was ist Wissenschaft? 
 
+[Folien](https://jobschepens.github.io/textanalyse/folien/week1.pptx)
 
 ## Week  2 (21.04.2021)
 
