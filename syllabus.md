@@ -93,7 +93,7 @@ Wissenschaft und Forschung
 - Cohen (2018). Research Methods in Education.
 
 
-Beispiele fuer eine Textanalyse
+Beispiele fuer eine Textanalyse (qualitativ)
 
 - Brezinka (1975) Über den Begriff der Erziehung 
 - Durkheim (1984) Erziehung, Moral und Gesellschaft 
@@ -102,3 +102,7 @@ Beispiele fuer eine Textanalyse
 - Rousseau (1762) Emile (Auszug)
 - Messerschmidt, Astrid (2016): Differenzreflexive Kritik machtkonformer Bildung. In: Müller, Stefan/ Mende, Janne (Hrsg.): Differenz und Identität. Konstellationen einer Kritik. Weinheim/ Basel: Juventa, S. 166-180.
 - Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77.
+
+Beispiele fuer eine Textanalyse (quantitativ)
+
+- Todo
