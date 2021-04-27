@@ -5,8 +5,7 @@
 Themen
 - Organisatorische und inhaltliche Einführung in das Seminar
 - Was ist Wissenschaft? 
-
-[Folien](https://jobschepens.github.io/textanalyse/folien/week1.pptx)
+- [Folien](https://jobschepens.github.io/textanalyse/folien/week1.pptx)
 
 
 ## Week  2 (21.04.2021)
@@ -16,6 +15,7 @@ Themen
 - Textsorten
 - Theorie-Praxiskonflikt
 - Fragen zur Seminarleistung
+- [Folien](https://jobschepens.github.io/textanalyse/folien/week2.pptx)
 
 Vorzubereitende Texte
 - 4p Rost, Friedrich (2008): Lern- und Arbeitstechniken für das Studium. 5., aktualisierte und erweiterte Auflage. Wiesbaden: VS Verlag für Sozialwissenschaften, S. 182-186. 
@@ -30,6 +30,7 @@ Lernziele: Sie koennen
 - verschiedene Typen wissenschaftlicher Literatur (Monographie, Sammelband, Zeitschrift usw.) voneinander unterscheiden.
 
 
+
 ## Week  3 (28.04.2021)
 
 Themen
@@ -39,8 +40,10 @@ Themen
 - Die wissenschaftliche Methode 
 - Aktuelle Strömungen in der Wissenschaft
 - Gute wissenschaftliche Praxis
+- [Folien](https://jobschepens.github.io/textanalyse/folien/week3.pptx)
 
 Vorzubereitende Texte:
+- Teil 3, Kapitel 1: Wissenschaftlichkeit und wissenschaftliche Qualität (Döring & Bortz, 2016)
 
 
 ## Week  4 (05.05.2021)
