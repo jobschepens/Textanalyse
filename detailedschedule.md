@@ -54,7 +54,7 @@ Themen
 - Wie recherchiere ich inhaltlich sinnvoll?
 
 Vorzubereitende Texte:
-- kommt noch
+- Kapitel aus einen Lehrbuch nach wahl
 
 Lernziele: Sie koennen
 - Literatur beschaffen, verschiedene Datenbanken kennen und nutzen 
