@@ -54,7 +54,7 @@ Themen
 - Wie recherchiere ich inhaltlich sinnvoll?
 
 Vorzubereitende Texte:
-- Kapitel aus einen Lehrbuch nach wahl
+- Kapitel aus einen Lehrbuch nach wahl, z.B.: [Seel & Hanke (2015)](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:TT050432640)
 
 Lernziele: Sie koennen
 - Literatur beschaffen, verschiedene Datenbanken kennen und nutzen 
@@ -72,11 +72,11 @@ Themen
 Vorzubereitende Texte
 - 8p Leitfaden zur wissenschaftlichen Zitation
 
-**Vorleistung 2: Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnisse**
-
 Lernziele: Sie koennen
 - unterschiedliche Zitationsschemata voneinander unterscheiden
 - richtig Zitatieren
+
+**Vorleistung 2: Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnisse**
 
 
 ## Week  6 (19.05.2021)
