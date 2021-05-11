@@ -52,6 +52,7 @@ Themen
 - Wahl eines Forschungsthemas
 - Fragestellungen
 - Wie recherchiere ich inhaltlich sinnvoll?
+- [Folien](https://jobschepens.github.io/textanalyse/folien/week4.pptx)
 
 Vorzubereitende Texte:
 - Kapitel aus einen Lehrbuch nach wahl, z.B.: [Seel & Hanke (2015)](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:TT050432640)
