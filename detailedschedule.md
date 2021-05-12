@@ -43,7 +43,7 @@ Themen
 - [Folien](https://jobschepens.github.io/textanalyse/folien/week3.pptx)
 
 Vorzubereitende Texte:
-- Teil 3, Kapitel 1: Wissenschaftlichkeit und wissenschaftliche Qualität (Döring & Bortz, 2016)
+- Teil 1, Kapitel 3.1: Wissenschaftlichkeit und wissenschaftliche Qualität (Döring & Bortz, 2016)
 
 
 ## Week  4 (05.05.2021)
@@ -57,6 +57,9 @@ Themen
 Vorzubereitende Texte:
 - Kapitel aus einen Lehrbuch nach wahl, z.B.: [Seel & Hanke (2015)](https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:TT050432640)
 
+Zum nachlesen:
+- Teil 2, Kapitel 5 Forschungsthema und 6.1 Literaturrecherche (Döring & Bortz, 2016)
+
 Lernziele: Sie koennen
 - Literatur beschaffen, verschiedene Datenbanken kennen und nutzen 
 
@@ -69,13 +72,14 @@ Themen
 - Zitation
 - Zitationsstile
 - Literaturverwaltung
+- [Folien](https://jobschepens.github.io/textanalyse/folien/week5.pptx)
 
 Vorzubereitende Texte
 - 8p Leitfaden zur wissenschaftlichen Zitation
 
 Lernziele: Sie koennen
 - unterschiedliche Zitationsschemata voneinander unterscheiden
-- richtig Zitatieren
+- richtig Zitieren
 
 **Vorleistung 2: Abgabe der angefertigten Zitationsbeispiele und Literaturverzeichnisse**
 
