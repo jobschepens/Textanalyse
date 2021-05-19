@@ -88,10 +88,10 @@ Lernziele: Sie koennen
 
 Themen
 - Grundlagen Textanalyse I
+- [Folien](https://jobschepens.github.io/textanalyse/folien/week6.pptx)
 
 Vorzubereitende Texte
-- 23p Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
-
+- Primaertext fuer Vorleistung 2. 
 
 Lernziele: Sie haben
 - ein fundiertes Verständnis von Hermeneutik als Methode der wissenschaftlichen Textinterpretation
@@ -104,8 +104,12 @@ Pfingsten
 
 ## Week  8 (02.06.2021)
 
+Vorzubereitende Texte
+- 23p Klafki, Wolfgang (2001): Hermeneutische Verfahren in der Erziehungswissenschaft (1971). In: Rittelmeyer, Christian/ Parmentier, Michael (Hrsg.): Einführung in die pädagogische Hermeneutik. Mit einem Beitrag von Wolfgang Klafki. Darmstadt: Wissenschaftliche Buchgesellschaft. S. 125-148
+
 Themen
 - Grundlagen Textanalyse II
+- Online-Umfrage: [URL](https://evaluation.tu-dortmund.de/evasys/online.php?pswd=UZMAE)
 
 
 ## Week  9 (09.06.2021)
