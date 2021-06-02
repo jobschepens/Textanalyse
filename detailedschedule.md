@@ -118,8 +118,8 @@ Themen
 - Textanalyse (theoretischer Erziehungswissenschaft)
 
 Vorzubereitende Texte
-- Ruhloff, Jörg (2009). Gefährdende Momente. Vom Einführen in die Pädagogik. In: Kubac, Richard/ Rabl, Christine/ Sattler, Elisabeth (Hrsg.): Weitermachen? Einsätze historischer Erziehungswissenschaft. Würzburg: Königshausen und Neumann, S. 70-77. 
-
+- Abstimmung auf [Slido](https://app.sli.do/event/lfdj6ydz) bis Freitag NM (Anonym)
+- Lesen des "gewinnenden" Textes 
 
 ## Week 10 (16.06.2021)
 
