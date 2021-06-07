@@ -117,14 +117,19 @@ Themen
 Themen
 - Textanalyse (theoretischer Erziehungswissenschaft)
 
-Vorzubereitende Texte
-- Abstimmung auf [Slido](https://app.sli.do/event/lfdj6ydz) bis Freitag NM (Anonym)
-- Lesen des "gewinnenden" Textes 
+Vorzubereitende Text
+- "Über den Begriff der Erziehung und den Gegenstand der Erziehungswissenschaft". Buchausschnitt Aus: Brezinka, W. (1975). Von der Pädagogik zur Erziehungswissenschaft. Eine Einführung in die Metatheorie der Erziehung. Beltz Studienbuch (pp 26-34). 
+- (Optional) [Laurea Honoris Causa a Wolfgang Brezinka](https://youtu.be/sk2TvsXHeis?t=1781)
+
+
 
 ## Week 10 (16.06.2021)
 
 Themen
 - Zeit zum Erstellen der ersten Textanalyse
+- keine Sitzung
+
+**Freitag 18.06 Abgabe Erstversion**
 
 
 ## Week 11 (23.06.2021)
@@ -132,7 +137,7 @@ Themen
 Themen
 - Diskussion der Ergebnisse
 
-**Vorleistung 3: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse**
+**Freitag 25.06: Vorleistung 3: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse**
 
 
 ## Week 12 (30.06.2021)
