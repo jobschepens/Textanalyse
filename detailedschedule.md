@@ -146,7 +146,8 @@ Themen
 - Textanalyse 2 (empirische Erziehungswissenschaft)
 
 Vorzubereitende Texte:
-- kommt noch
+- (Umfrage)[https://app.sli.do/event/yqmxnxgt]
+
 
 ## Week 13 (07.07.2021)
 
