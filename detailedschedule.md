@@ -146,26 +146,30 @@ Themen
 - Textanalyse 2 (empirische Erziehungswissenschaft)
 
 Vorzubereitende Texte:
-- (Umfrage)[https://app.sli.do/event/yqmxnxgt]
+- (Umfrage)[https://app.sli.do/event/yqmxnxgt] 
 
 
 ## Week 13 (07.07.2021)
 
 Themen
 - Zeit zum Erstellen der zweiten Textanalyse
+- keine Sitzung
+- Schriftliches Kommentar zum ersten Textanalyse 
+
+**Freitag 09.07 Abgabe Erstversion der zweiten Textanalyse**
 
 
 ## Week 14 (14.07.2021)
 
 Themen
-- Diskussion der Ergebnisse
+- Diskussion der Ergebnisse und schriftliches Kommentrar zum zweiten textanalyse
 
-**Vorleistung 4: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse**
+**Freitag 16.07: Vorleistung 4: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse (die Zweite)**
 
 
 ## Week 15 (21.07.2021)
 
-Individualtermine zur Besprechung der Hausarbeitsthemen
+Individualtermine zur Besprechung der Hausarbeitsthemen 
 
 
 ## Before 30.09.2021 (Enddatum SoSe21)
