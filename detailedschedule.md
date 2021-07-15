@@ -164,12 +164,12 @@ Themen
 Themen
 - Diskussion der Ergebnisse und schriftliches Kommentrar zum zweiten textanalyse
 
-**Freitag 16.07: Vorleistung 4: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse (die Zweite)**
-
 
 ## Week 15 (21.07.2021)
 
 Individualtermine zur Besprechung der Hausarbeitsthemen 
+
+**Freitag 21.07: Vorleistung 4: Abgabe einer inhaltlich plausiblen und formal korrekten Analyse (die Zweite)**
 
 
 ## Before 30.09.2021 (Enddatum SoSe21)
